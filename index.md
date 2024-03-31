@@ -5,7 +5,7 @@ layout: homepage
 ## Research Interests
 
 - **Time Series:**  Physiological Signal, Financial Time Series 
-- **Machine Learning:** Multimodal Learning, Generative Model
+- **Machine Learning:** Multimodal Learning, Transfer Learning
 
 
 
