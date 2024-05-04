@@ -4,9 +4,9 @@ layout: homepage
 
 ## Research Interests
 
-- **Time Series:**  Physiological Signal, Financial Time Series 
-- **Machine Learning:** Multimodal Learning, Transfer Learning
-
+- **Time Series:**  Physiological Signal, Financial Time Series, Image Time Series(Video) 
+- **Machine Learning:** Multimodal Learning, Domain Adaptation
+- **Physics Informed Neural Network!!!** 
 
 
 
