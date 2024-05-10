@@ -6,7 +6,7 @@ layout: homepage
 
 - **Time Series:**  Physiological Signal, Financial Time Series, Image Time Series(Video) 
 - **Machine Learning:** Multimodal Learning, Domain Adaptation
-- **Physics Informed Neural Network!!!** 
+- **Physics Informed Neural Network, Robotics!!!** 
 
 
 
