@@ -6,7 +6,7 @@ layout: homepage
 
 - **Time Series:**  Physiological Signal, Financial Time Series, Human motion
 - **Machine Learning:** Multimodal Learning, Domain Adaptation
-- **Controlling: Robotics !!!** 
+- **Controlling:** Robotics, Reinforcement Learning ** 
 
 
 
