@@ -42,6 +42,4 @@ layout: homepage
 - **Third Prize, The 7th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition**, 2021
 - **Second Prize, The 31st “Feng Ru Cup” Competition of Academic and Technological Works**, 2021
   
-## Services
 
-- Volunteer: World Robot Conference, 2019 (http://www.worldrobotconference.com/cn/lijie/view?id=5)
