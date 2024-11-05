@@ -4,9 +4,9 @@ layout: homepage
 
 ## Research Interests
 
-- **Time Series:**  Physiological Signal, Financial Time Series, Human motion
+- **Time Series:**  Physiological Signal,Video, Human motion
 - **Machine Learning:** Multimodal Learning, Domain Adaptation
-- **Controlling:** Robotics, Reinforcement Learning ** 
+- **Controlling:** Robotics, Reinforcement Learning  
 
 
 
