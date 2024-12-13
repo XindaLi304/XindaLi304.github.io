@@ -4,9 +4,7 @@ layout: homepage
 
 ## Research Interests
 
-- **Time Series:**  Physiological Signal,Video, Human motion
-- **Machine Learning:** Multimodal Learning, Domain Adaptation
-- **Controlling:** Robotics, Reinforcement Learning  
+-  Generative Models, Multimodal Learning, Reinforcement Learning, Domain Adaptation 
 
 
 
