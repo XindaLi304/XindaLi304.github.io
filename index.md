@@ -3,7 +3,7 @@ layout: homepage
 ---
 I have previously worked on classification for Multimodal time series. Right now I mainly focus on:    
 
--  Generative Models, Multimodal Learning, Reinforcement Learning
+**Generative Models, Multimodal Learning, Reinforcement Learning**
 
 
 
