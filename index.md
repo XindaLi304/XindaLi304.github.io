@@ -1,10 +1,10 @@
 ---
 layout: homepage
 ---
-
+I have previously worked on classification for Multimodal time series. Right now I mainly focus on:    
 ## Research Interests
 
--  Generative Models, Multimodal Learning, Reinforcement Learning, Domain Adaptation 
+-  Generative Models, Multimodal Learning, Reinforcement Learning
 
 
 
